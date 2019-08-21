@@ -1,0 +1,35 @@
+{
+  "name": "infero-sample-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "apollo-boost": "^0.4.4",
+    "apollo-cache-inmemory": "^1.6.3",
+    "apollo-client": "^1.9.0-1",
+    "apollo-link-http": "^1.5.15",
+    "bootstrap": "^4.3.1",
+    "graphql-tag": "^2.10.1",
+    "incompose": "^5.0.1",
+    "inferno": "^7.3.0",
+    "inferno-apollo": "^1.1.0",
+    "inferno-bootstrap": "^7.2.1",
+    "inferno-compat": "^7.3.0",
+    "inferno-scripts": "7.0.4",
+    "swapi-graphql": "0.0.6"
+  },
+  "scripts": {
+    "start": "inferno-scripts start",
+    "build": "inferno-scripts build",
+    "test": "inferno-scripts test",
+    "eject": "inferno-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "inferno-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
