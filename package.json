@@ -23,7 +23,7 @@
     "graphql-tools": "^4.0.5",
     "incompose": "^5.0.1",
     "inferno": "^7.3.0",
-    "mongoose": "^5.6.10",
+    "mongoose": "^5.7.5",
     "swapi-graphql": "0.0.6"
   }
 }
